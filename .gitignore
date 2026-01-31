@@ -1,0 +1,17 @@
+# .NET build outputs
+bin/
+obj/
+
+# VS files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac
+.DS_Store
